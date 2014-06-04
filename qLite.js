@@ -26,7 +26,7 @@ window.Q = qFactory(function(callback) {
     callback();
   }, 0);
 }, function(e) {
-  console.error(e.message);
+  console.error('qLite: ' + e.stack);
 });
 
 /**
