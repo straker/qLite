@@ -1,0 +1,19 @@
+{
+  "name": "qLite",
+  "version": "1.0.0",
+  "description": "A tiny, API-compatible subset of $q.js",
+  "main": "qLite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/straker/qLite.git"
+  },
+  "author": "Steven Lambert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/straker/qLite/issues"
+  },
+  "homepage": "https://github.com/straker/qLite"
+}
