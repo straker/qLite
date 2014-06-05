@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-window.Q = qFactory(function(callback) {
+window.q = qFactory(function(callback) {
   setTimeout(function() {
     callback();
   }, 0);
